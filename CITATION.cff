@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "JITAI-Twin"
+type: software
+version: 0.1.0
+date-released: 2026-11-06
+authors:
+  - family-names: Xu
+    given-names: Ziping
+  - family-names: Chang
+    given-names: Yuyi
+  - family-names: Ni
+    given-names: Chenshun
+  - family-names: Sugavanam
+    given-names: Nithin
+  - family-names: Gazi
+    given-names: Asim H.
+  - family-names: Klasnja
+    given-names: Pedja
+  - family-names: Ertin
+    given-names: Emre
+  - family-names: Murphy
+    given-names: Susan
+preferred-citation:
+  type: article
+  title: "A Diffusion-Model Subpopulation Digital Twin for Mobile Health Deployment: A Case Study on the HeartSteps Intervention"
+  authors:
+    - family-names: Xu
+      given-names: Ziping
+    - family-names: Chang
+      given-names: Yuyi
+    - family-names: Ni
+      given-names: Chenshun
+    - family-names: Sugavanam
+      given-names: Nithin
+    - family-names: Gazi
+      given-names: Asim H.
+    - family-names: Klasnja
+      given-names: Pedja
+    - family-names: Ertin
+      given-names: Emre
+    - family-names: Murphy
+      given-names: Susan
+  year: 2026

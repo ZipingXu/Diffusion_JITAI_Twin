@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# Generated outputs
+outputs/
+artifacts/
+checkpoints/
+wandb/
+
+# Research data and model weights: never commit these.
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.hdf5
+*.zip
+*.tar
+*.tar.gz
+
+# Credentials and machine-specific configuration
+.env
+.env.*
+*.pem
+*.key
+*.crt
+credentials*.json
+token*.json
+.DS_Store
